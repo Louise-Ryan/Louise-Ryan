@@ -73,8 +73,8 @@
 
 <p>
   🎓 Google Scholar:
-  <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID">
-    Louise Ryan
+  <a href="https://scholar.google.com/citations?user=0y_XWNsAAAAJ&hl=en">
+  Louise Ryan
   </a>
 </p>
 
