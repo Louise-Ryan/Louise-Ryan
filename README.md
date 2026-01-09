@@ -1,47 +1,49 @@
-  <h1>🧬 Louise Ryan </h1>
-  <p class="tagline">
-    Bioinformatics researcher working on genome mining, gene annotation,
-    and reproducible pipeline development.
+<h1>🧬 Louise Ryan</h1>
+
+<p class="tagline">
+  🎓 PhD, Systems Biology & Bioinformatics (UCD)
+  &nbsp;•&nbsp;
+  BSc Genetics (UCD)<br>
+  💻 Bioinformatics researcher working on genome mining, gene annotation,
+  and reproducible pipeline development.
+</p>
+
+<h2>🔍 Research Areas</h2>
+<ul>
+  <li>Sensory genomics</li>
+  <li>Genome mining and gene annotation</li>
+  <li>Large multi-gene family classification</li>
+  <li>Orthology inference</li>
+  <li>Comparative genomics</li>
+  <li>Mammalian evolution</li>
+</ul>
+
+<h2 class="section-gap">⚙️ Featured Pipelines</h2>
+
+<div class="pipeline-card">
+  <h3>Sensommatic</h3>
+  <p class="pipeline-desc">
+    Efficient, reproducible pipeline to mine and predict vertebrate sensory
+    receptor genes from whole-genome assemblies.
   </p>
-
-<!--
-  <h2>🔍 Research Interests</h2>
-  <ul>
-    <li>Genome mining for novel genes and pathways</li>
-    <li>Automated gene prediction & functional annotation</li>
-    <li>Accessible, reproducible bioinformatics workflows ♻️</li>
-  </ul>
-
-  <h2>⚙️ Featured Pipeline</h2>
-  <div class="card">
-    <strong>GenomeMineFlow</strong><br>
-    End-to-end genome mining & annotation pipeline<br>
-    <em>Nextflow · Docker · HMMER · antiSMASH</em><br>
-    <a href="https://github.com/yourusername/genomemineflow">GitHub →</a>
-  </div>
-
-  <h2>📬 Contact</h2>
-  <p>
-    <a href="https://github.com/yourusername">GitHub</a> ·
-    <a href="mailto:you@email.com">Email</a>
+  <p class="pipeline-links">
+    🔗 <a href="https://github.com/Louise-Ryan/Sensommatic">GitHub</a> ·
+    📄 <a href="https://academic.oup.com/bioinformatics/article/40/1/btae040/7585534">
+      <em>Bioinformatics</em>, 2024
+    </a>
   </p>
+</div>
 
-</body>
-</html>
+<div class="pipeline-card">
+  <h3>GENE-FAM</h3>
+  <p class="pipeline-desc">
+    Automated tool to mine and predict gene families characterised by conserved
+    domains and motifs. Uses HMMER to mine existing NCBI annotations and
+    AUGUSTUS to predict novel or previously unannotated gene family members.
+  </p>
+  <p class="pipeline-links">
+    🔗 <a href="https://github.com/Louise-Ryan/GENE-FAM">GitHub</a>
+  </p>
+</div>
 
 
-
-<!--
-**Louise-Ryan/Louise-Ryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
