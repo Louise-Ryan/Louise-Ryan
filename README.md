@@ -26,7 +26,7 @@
 
 <div class="pipeline-card">
   <h3>
-    <span style="color:#0969DA">●</span>
+    <span style="color:#0969DA">•</span>
     Sensommatic
   </h3>
   <p class="pipeline-desc">
@@ -43,7 +43,7 @@
 
 <div class="pipeline-card">
   <h3>
-    <span style="color:#2DA44E">●</span>
+    <span style="color:#2DA44E">•</span>
     GENE-FAM
   </h3>
   <p class="pipeline-desc">
