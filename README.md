@@ -8,6 +8,8 @@
   and reproducible pipeline development.
 </p>
 
+---
+
 <h2>🔍 Research Areas</h2>
 <ul>
   <li>Sensory genomics</li>
@@ -18,10 +20,14 @@
   <li>Mammalian evolution</li>
 </ul>
 
+---
 <h2 class="section-gap">⚙️ Featured Pipelines</h2>
 
 <div class="pipeline-card">
-  <h3>Sensommatic</h3>
+  <h3>
+    <span style="color:#0969DA">●</span>
+    Sensommatic
+  </h3>
   <p class="pipeline-desc">
     Efficient, reproducible pipeline to mine and predict vertebrate sensory
     receptor genes from whole-genome assemblies.
@@ -35,7 +41,10 @@
 </div>
 
 <div class="pipeline-card">
-  <h3>GENE-FAM</h3>
+  <h3>
+    <span style="color:#2DA44E">●</span>
+    GENE-FAM
+  </h3>
   <p class="pipeline-desc">
     Automated tool to mine and predict gene families characterised by conserved
     domains and motifs. Uses HMMER to mine existing NCBI annotations and
@@ -45,5 +54,28 @@
     🔗 <a href="https://github.com/Louise-Ryan/GENE-FAM">GitHub</a>
   </p>
 </div>
+
+---
+<h2 class="section-gap">📙 Publications</h2>
+
+<p>
+  <img
+    src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+    alt="ORCID iD"
+    style="vertical-align: middle; margin-right: 4px;"
+  >
+  ORCID:
+  <a href="https://orcid.org/0000-0002-6876-677X">
+    0000-0002-6876-677X
+  </a>
+</p>
+
+<p>
+  🎓 Google Scholar:
+  <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID">
+    Louise Ryan
+  </a>
+</p>
+
 
 
