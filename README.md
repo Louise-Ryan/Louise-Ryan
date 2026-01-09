@@ -11,7 +11,7 @@
 
 ---
 
-<h2>🔍 Research Areas</h2>
+<h2>🔍 Research Areas:</h2>
 <ul>
   <li>Sensory genomics</li>
   <li>Genome mining and gene annotation</li>
@@ -22,7 +22,7 @@
 </ul>
 
 ---
-<h2 class="section-gap">⚙️ Featured Pipelines</h2>
+<h2 class="section-gap">⚙️ Featured Pipelines:</h2>
 
 <div class="pipeline-card">
   <h3>
@@ -57,7 +57,7 @@
 </div>
 
 ---
-<h2 class="section-gap">📙 Publications</h2>
+<h2 class="section-gap">📙 Publications:</h2>
 
 <p>
   <img
