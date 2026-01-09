@@ -31,7 +31,7 @@
   </h3>
   <p class="pipeline-desc">
     Efficient, reproducible pipeline to mine and predict vertebrate sensory
-    receptor genes from whole-genome assemblies. Mines both single exon (OR, TAAR, V1R and TAS2R) and multi-exon (OPNs, TAS1Rs, V2Rs) senory receptor gene families. 
+    receptor genes from whole-genome assemblies. Mines both single-exon (OR, TAAR, V1R and TAS2R) and multi-exon (OPNs, TAS1Rs, V2Rs) senory receptor gene families. 
   </p>
   <p class="pipeline-links">
     🔗 <a href="https://github.com/Louise-Ryan/Sensommatic">GitHub</a> ·
