@@ -2,9 +2,9 @@
 <h1>🧬 Louise Ryan</h1>
 
 <p class="tagline">
-  🎓 PhD, Systems Biology & Bioinformatics (UCD)
+  🎓 PhD, Systems Biology & Bioinformatics
   &nbsp;•&nbsp;
-  BSc Genetics (UCD)<br>
+  BSc Genetics <br>
   💻 Bioinformatics researcher working on genome mining, gene annotation,
   and reproducible pipeline development.
 </p>
