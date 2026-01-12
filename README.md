@@ -13,8 +13,8 @@
 
 <h2>🔍 Research Areas:</h2>
 <ul>
-  <li>Sensory genomics</li>
   <li>Genome mining and gene annotation</li>
+ <li>Sensory genomics</li>
   <li>Large multi-gene family classification</li>
   <li>Orthology inference</li>
   <li>Comparative genomics</li>
