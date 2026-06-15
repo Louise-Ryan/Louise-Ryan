@@ -52,7 +52,12 @@
     AUGUSTUS to predict novel or previously unannotated gene family members.
   </p>
   <p class="pipeline-links">
-    🔗 <a href="https://github.com/Louise-Ryan/GENE-FAM">GitHub</a>
+    🔗 <a href="https://github.com/Louise-Ryan/GENE-FAM">GitHub</a> ·
+    📄 <a href="https://www.biorxiv.org/content/10.64898/2026.06.10.731441v1">
+      <em>BioRxiv</em>, 2026
+    </a>
+
+    
   </p>
 </div>
 
