@@ -71,7 +71,7 @@
     GPCR-Classifier
   </h3>
   <p class="pipeline-desc">
-    A simple Python wrapper for DeepTMHMM that classifies GPCR predictions based on the number of predicted transmembrane domains. The script provides a lightweight quality         control step for GPCR annotations by identifying complete receptors, partial predictions, putative fusion proteins, and sequences lacking transmembrane domains. This can be     useful for  detecting potential pseudogenes and annotation artefacts.
+    A simple Python wrapper for DeepTMHMM that classifies GPCR predictions based on the number of predicted transmembrane domains. Can be applied as a quality control step for GPCR annotations by identifying complete receptors, partial predictions, putative fusion proteins, and sequences lacking transmembrane domains. 
 
     
   </p>
