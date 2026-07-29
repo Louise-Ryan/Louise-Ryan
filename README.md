@@ -76,7 +76,7 @@
     
   </p>
   <p class="pipeline-links">
-    🔗 <a href="https://github.com/Louise-Ryan/Sensommatic](https://github.com/Louise-Ryan/GPCR-Classifier">GitHub</a> 
+    🔗 <a href="https://github.com/Louise-Ryan/GPCR-Classifier">GitHub</a> 
     </a>
   </p>
 </div>
