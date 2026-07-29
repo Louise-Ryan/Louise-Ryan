@@ -62,6 +62,28 @@
 </div>
 
 ---
+
+<h2 class="section-gap">🧩 Tools & Utilities:</h2>
+
+<div class="pipeline-card">
+  <h3>
+    <span style="color:#0969DA">•</span>
+    GPCR-Classifier
+  </h3>
+  <p class="pipeline-desc">
+    A simple Python wrapper for DeepTMHMM that classifies GPCR predictions based on the number of predicted transmembrane domains. The script provides a lightweight quality         control step for GPCR annotations by identifying complete receptors, partial predictions, putative fusion proteins, and sequences lacking transmembrane domains. This can be     useful for  detecting potential pseudogenes and annotation artefacts.
+
+    
+  </p>
+  <p class="pipeline-links">
+    🔗 <a href="https://github.com/Louise-Ryan/Sensommatic](https://github.com/Louise-Ryan/GPCR-Classifier">GitHub</a> ·
+    </a>
+  </p>
+</div>
+
+
+---
+
 <h2 class="section-gap">📙 Publications:</h2>
 
 <p>
