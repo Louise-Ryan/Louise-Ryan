@@ -63,7 +63,7 @@
 
 ---
 
-<h2 class="section-gap">🧩 Tools & Utilities:</h2>
+<h2 class="section-gap">🧩 Useful Tools:</h2>
 
 <div class="pipeline-card">
   <h3>
