@@ -100,7 +100,7 @@
 
 <p>
   🎓 Google Scholar:
-  <a href="https://scholar.google.com/citations?user=0y_XWNsAAAAJ&hl=en">
+  <a href="https://scholar.google.com/citations?user=HIh-biYAAAAJ&hl=en">
   Louise Ryan
   </a>
 </p>
