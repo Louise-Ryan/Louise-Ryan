@@ -68,7 +68,7 @@
 <div class="pipeline-card">
   <h3>
     <span style="color:#0969DA">•</span>
-    GPCR-Classifier
+    GPCR-Quality-Control
   </h3>
   <p class="pipeline-desc">
     A simple Python wrapper for DeepTMHMM that classifies GPCR predictions based on the number of predicted transmembrane domains. Can be applied as a quality control step for GPCR annotations by identifying complete receptors, partial predictions, putative fusion proteins, and sequences lacking transmembrane domains. 
