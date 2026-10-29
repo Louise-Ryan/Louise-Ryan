@@ -26,23 +26,6 @@
 
 <div class="pipeline-card">
   <h3>
-    <span style="color:#0969DA">•</span>
-    Sensommatic
-  </h3>
-  <p class="pipeline-desc">
-    Efficient, reproducible pipeline to mine and predict vertebrate sensory
-    receptor genes from whole-genome assemblies. Mines both single-exon (OR, TAAR, V1R and TAS2R) and multi-exon (OPNs, TAS1Rs, V2Rs) senory receptor gene families. 
-  </p>
-  <p class="pipeline-links">
-    🔗 <a href="https://github.com/Louise-Ryan/Sensommatic">GitHub</a> ·
-    📄 <a href="https://academic.oup.com/bioinformatics/article/40/1/btae040/7585534">
-      <em>Bioinformatics</em>, 2024
-    </a>
-  </p>
-</div>
-
-<div class="pipeline-card">
-  <h3>
     <span style="color:#2DA44E">•</span>
     GENE-FAM
   </h3>
@@ -60,6 +43,24 @@
     
   </p>
 </div>
+
+<div class="pipeline-card">
+  <h3>
+    <span style="color:#0969DA">•</span>
+    Sensommatic
+  </h3>
+  <p class="pipeline-desc">
+    Efficient, reproducible pipeline to mine and predict vertebrate sensory
+    receptor genes from whole-genome assemblies. Mines both single-exon (OR, TAAR, V1R and TAS2R) and multi-exon (OPNs, TAS1Rs, V2Rs) senory receptor gene families. 
+  </p>
+  <p class="pipeline-links">
+    🔗 <a href="https://github.com/Louise-Ryan/Sensommatic">GitHub</a> ·
+    📄 <a href="https://academic.oup.com/bioinformatics/article/40/1/btae040/7585534">
+      <em>Bioinformatics</em>, 2024
+    </a>
+  </p>
+</div>
+
 
 ---
 
