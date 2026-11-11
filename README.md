@@ -82,6 +82,20 @@
   </p>
 </div>
 
+<div class="pipeline-card">
+  <h3>
+    <span style="color:#0969DA">•</span>
+    DNA Tools
+  </h3>
+  <p class="pipeline-desc">
+  An R Shiny app providing a collection of accessible tools for common DNA and RNA sequence analysis tasks, including reverse complement calculation, six-frame translation and set comparison. Designed to simplify routine bioinformatics tasks without requiring programming experience, making it applicable to undergraduate teaching labs and practical sessions where coding is not a prerequisite.
+  </p>
+  <p class="pipeline-links">
+    🔗 <a href="https://github.com/Louise-Ryan/DNA-Tools">GitHub</a> ·
+    🌐 <a href="https://louiseryan-dna-tools.share.connect.posit.cloud/">Live App</a>
+  </p>
+</div>
+
 
 ---
 
