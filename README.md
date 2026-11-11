@@ -92,7 +92,7 @@
   </p>
   <p class="pipeline-links">
     🔗 <a href="https://github.com/Louise-Ryan/DNA-Tools">GitHub</a> ·
-    🌐 <a href="https://louiseryan-dna-tools.share.connect.posit.cloud/">Live App</a>
+    🌐 <a href="https://louryan.shinyapps.io/dna-tools/">Live App</a>
   </p>
 </div>
 
